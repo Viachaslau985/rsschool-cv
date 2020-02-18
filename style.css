@@ -1,0 +1,27 @@
+body {
+    background-color: #98FB98;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.block-title {
+    text-align: center;
+    color:#008000 ;
+}
+
+.image {
+    width: 150px;
+    height: 250px;
+}
+
+.contact-info {
+    font-weight: 700;
+    text-align: center; 
+    color:#008000 ; 
+}
+
+.contact-info-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
